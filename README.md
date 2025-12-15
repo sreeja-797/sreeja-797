@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Next.js, TypeScript & System Design**
-- 👯 I’m looking to collaborate on **MERN Stack Projects, Hackathons & Open Source**
+- 👯 I’m looking to collaborate on ** Projects, Hackathons & Open Source**
 - 💬 Ask me about **Web Development, ML, DBMS, OS, DSA, JavaScript**
 - 📫 Reach me at **sreejajerripotula@gmail.com**
 - 📄 Know more about my journey on [LinkedIn](https://www.linkedin.com/in/jerripotula-sreeja-a87a01311/)
