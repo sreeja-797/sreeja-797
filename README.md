@@ -1,7 +1,7 @@
 ## Hi Sreeja here👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+there;Nice+to+meet+you+😊;I'm+JERRIPOTHULA+SREEJA+💜;Full+Stack+%26+ML+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=2500&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+👋+there;Nice+to+meet+you+😊;I'm+JERRIPOTHULA+SREEJA ;Full+Stack+%26+ML+Developer" alt="Typing SVG" />
   <h3 align="center">A passionate Full Stack Developer & ML Enthusiast</h3>
 </h1>
 
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-✨ Crafted with ❤️ by <b>Jerripotula Sreeja</b> ✨
+✨ Crafted with  by <b>Jerripotula Sreeja</b> ✨
 </p>
